@@ -1,0 +1,13 @@
+{
+  "name": "event-witness",
+  "type": "module",
+  "version": "0.0.1",
+  "description": "System test aid for JavaScript powered Rails apps",
+  "repository": "git@github.com:OutlawAndy/event-witness.git",
+  "author": "Andy Cohen <outlawandy@gmail.com>",
+  "license": "MIT",
+  "main": "src/index.js",
+  "directories": {
+    "lib": "src/lib"
+  }
+}
